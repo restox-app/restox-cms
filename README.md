@@ -1,19 +1,33 @@
-# restox-cms
+# RestoX CMS
 
-This project was created using create-payload-app using the blank template.
+### This is the Content Management System for Fiume (the Ecommerce Store)
 
-## How to Use
+- Supports Access Control (Resource and Policy Based)
+- Supports Admin and Buyer Onboarding
+- Order Management
+- Restaurants CRUD including Menu and Cart
 
-`yarn dev` will start up your application and reload on any changes.
-
-### Docker
-
-If you have docker and docker-compose installed, you can run `docker-compose up`
-
-To build the docker image, run `docker build -t my-tag .`
-
-Ensure you are passing all needed environment variables when starting up your container via `--env-file` or setting them with your deployment.
-
-The 3 typical env vars will be `MONGODB_URI`, `PAYLOAD_SECRET`, and `PAYLOAD_CONFIG_PATH`
-
-`docker run --env-file .env -p 3000:3000 my-tag`
+<p float="left">
+<img src="sc/1.png" width="1000" />
+<img src="sc/2.png" width="1000" />
+<img src="sc/3.png" width="1000" />
+<img src="sc/4.png" width="1000" />
+<img src="sc/5.png" width="1000" />
+<img src="sc/6.png" width="1000" />
+<img src="sc/7.png" width="1000" />
+<img src="sc/8.png" width="1000" />
+<img src="sc/9.png" width="1000" />
+<img src="sc/10.png" width="1000" />
+<img src="sc/11.png" width="1000" />
+<img src="sc/12.png" width="1000" />
+<img src="sc/13.png" width="1000" />
+<img src="sc/14.png" width="1000" />
+<img src="sc/15.png" width="1000" />
+<img src="sc/16.png" width="1000" />
+<img src="sc/17.png" width="1000" />
+<img src="sc/18.png" width="1000" />
+<img src="sc/19.png" width="1000" />
+<img src="sc/20.png" width="1000" />
+<img src="sc/21.png" width="1000" />
+<img src="sc/22.png" width="1000" />
+</p>
